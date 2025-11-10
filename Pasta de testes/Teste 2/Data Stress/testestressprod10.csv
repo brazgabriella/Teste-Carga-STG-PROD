@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1762798437902,689,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-9,text,true,,9501,508,15,15,https://map.apps.quattrus.com/editor,689,0,535
+1762798437801,790,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-8,text,true,,9501,508,15,15,https://map.apps.quattrus.com/editor,790,0,636
+1762798437800,790,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,9501,508,15,15,null,790,3,636
+1762798437901,689,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,9501,508,15,15,null,689,3,535
+1762798437100,1495,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-1,text,true,,9501,508,13,13,https://map.apps.quattrus.com/editor,1495,0,1339
+1762798437198,1397,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-2,text,true,,9501,508,13,13,https://map.apps.quattrus.com/editor,1397,0,1239
+1762798437500,1095,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-5,text,true,,9501,508,13,13,https://map.apps.quattrus.com/editor,1095,0,937
+1762798437198,1397,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,9501,508,13,13,null,1397,1,1239
+1762798437499,1095,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,9501,508,13,13,null,1095,2,937
+1762798437099,1495,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,9501,508,13,13,null,1495,2,1339
+1762798437599,998,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-6,text,true,,9501,508,10,10,https://map.apps.quattrus.com/editor,998,0,838
+1762798437598,998,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,9501,508,10,10,null,998,1,838
+1762798437699,899,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-7,text,true,,9501,508,11,11,https://map.apps.quattrus.com/editor,899,0,738
+1762798437698,899,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,9501,508,11,11,null,899,1,738
+1762798438101,499,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-11,text,true,,9501,508,9,9,https://map.apps.quattrus.com/editor,499,0,337
+1762798438101,499,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,true,,9501,508,9,9,null,499,1,337
+1762798437300,1301,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-3,text,true,,9501,508,9,9,https://map.apps.quattrus.com/editor,1301,0,1138
+1762798437299,1301,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,9501,508,9,9,null,1301,2,1138
+1762798437400,1275,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-4,text,true,,9501,508,7,7,https://map.apps.quattrus.com/editor,1275,0,1039
+1762798437399,1275,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,9501,508,7,7,null,1275,1,1039
+1762798438199,478,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-12,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,478,0,316
+1762798438198,478,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-12,,true,,9501,508,6,6,null,478,2,316
+1762798438000,678,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-10,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,678,0,440
+1762798437999,678,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,9501,508,5,5,null,678,2,440
+1762798438300,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-13,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1762798438299,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,true,,9501,508,5,5,null,459,2,306
+1762798438399,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-14,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1762798438399,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-14,,true,,9501,508,5,5,null,455,0,303
+1762798438499,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-15,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,307
+1762798438499,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-15,,true,,9501,508,5,5,null,459,1,307
+1762798438599,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-16,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,305
+1762798438598,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-16,,true,,9501,508,5,5,null,460,1,305
+1762798438700,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-17,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1762798438699,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-17,,true,,9501,508,5,5,null,456,1,304
+1762798438801,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-18,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1762798438800,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-18,,true,,9501,508,5,5,null,457,2,304
+1762798438899,467,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-19,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,467,0,305
+1762798438898,467,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-19,,true,,9501,508,5,5,null,467,1,305
+1762798438998,454,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-20,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1762798438998,454,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-20,,true,,9501,508,5,5,null,454,1,302
+1762798439099,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-21,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1762798439098,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-21,,true,,9501,508,5,5,null,458,2,305
+1762798439201,473,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-22,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,473,0,319
+1762798439199,473,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-22,,true,,9501,508,5,5,null,473,3,319
+1762798439299,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-23,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1762798439299,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-23,,true,,9501,508,5,5,null,457,1,305
+1762798439399,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-24,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1762798439398,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-24,,true,,9501,508,5,5,null,457,1,305
+1762798439498,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-25,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,306
+1762798439498,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-25,,true,,9501,508,5,5,null,457,1,306
+1762798439599,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-26,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,305
+1762798439598,462,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-26,,true,,9501,508,5,5,null,461,1,305
+1762798439698,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-27,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1762798439698,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-27,,true,,9501,508,5,5,null,459,0,305
+1762798439798,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-28,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1762798439798,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-28,,true,,9501,508,5,5,null,457,1,305
+1762798439899,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-29,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1762798439898,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-29,,true,,9501,508,5,5,null,456,1,304
+1762798439997,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-30,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1762798439997,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-30,,true,,9501,508,5,5,null,456,1,305
+1762798440101,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-31,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1762798440100,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-31,,true,,9501,508,5,5,null,455,2,303
+1762798440199,452,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-32,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,452,0,300
+1762798440198,452,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-32,,true,,9501,508,5,5,null,452,2,300
+1762798440300,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-33,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1762798440298,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-33,,true,,9501,508,5,5,null,457,3,304
+1762798440399,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-34,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1762798440398,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-34,,true,,9501,508,5,5,null,458,1,305
+1762798440497,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-35,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1762798440496,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-35,,true,,9501,508,5,5,null,456,1,304
+1762798440597,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-36,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,308
+1762798440596,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-36,,true,,9501,508,5,5,null,460,2,308
+1762798440698,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-37,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1762798440697,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-37,,true,,9501,508,5,5,null,456,1,304
+1762798440799,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-38,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1762798440798,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-38,,true,,9501,508,5,5,null,459,2,306
+1762798440898,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-39,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,306
+1762798440897,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-39,,true,,9501,508,5,5,null,460,1,306
+1762798440996,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-40,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1762798440996,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-40,,true,,9501,508,5,5,null,459,1,305
+1762798441098,464,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-41,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,464,0,309
+1762798441097,464,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-41,,true,,9501,508,5,5,null,464,1,309
+1762798441199,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-42,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,303
+1762798441198,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-42,,true,,9501,508,5,5,null,456,1,303
+1762798441299,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-43,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1762798441298,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-43,,true,,9501,508,5,5,null,459,1,306
+1762798441397,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-44,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,307
+1762798441396,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-44,,true,,9501,508,5,5,null,459,1,307
+1762798441496,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-45,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1762798441495,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-45,,true,,9501,508,5,5,null,455,2,303
+1762798441598,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-46,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,303
+1762798441596,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-46,,true,,9501,508,5,5,null,459,3,303
+1762798441698,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-47,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1762798441697,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-47,,true,,9501,508,5,5,null,458,1,306
+1762798441797,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-48,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1762798441796,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-48,,true,,9501,508,5,5,null,456,1,305
+1762798441897,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-49,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,302
+1762798441895,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-49,,true,,9501,508,5,5,null,455,2,302
+1762798441996,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-50,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,307
+1762798441995,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-50,,true,,9501,508,5,5,null,458,2,307
+1762798442098,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-51,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1762798442097,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-51,,true,,9501,508,5,5,null,455,2,303
+1762798442196,463,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-52,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,463,0,309
+1762798442196,463,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-52,,true,,9501,508,5,5,null,463,1,309
+1762798442297,464,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-53,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,464,0,310
+1762798442296,464,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-53,,true,,9501,508,5,5,null,464,2,310
+1762798442396,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-54,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,309
+1762798442395,461,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-54,,true,,9501,508,5,5,null,461,2,309
+1762798442496,502,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-55,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,502,0,345
+1762798442495,502,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-55,,true,,9501,508,6,6,null,502,2,345
+1762798442596,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-56,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,307
+1762798442595,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-56,,true,,9501,508,5,5,null,458,1,307
+1762798442697,473,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-57,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,473,0,307
+1762798442696,473,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-57,,true,,9501,508,5,5,null,473,2,307
+1762798442798,528,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-58,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,527,0,374
+1762798442797,528,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-58,,true,,9501,508,6,6,null,527,1,374
+1762798442896,480,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-59,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,480,0,326
+1762798442895,480,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-59,,true,,9501,508,5,5,null,480,1,326
+1762798442996,484,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-60,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,484,0,332
+1762798442995,484,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-60,,true,,9501,508,5,5,null,484,2,332
+1762798443097,493,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-61,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,493,0,330
+1762798443096,493,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-61,,true,,9501,508,5,5,null,493,2,330
+1762798443196,485,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-62,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,485,0,333
+1762798443195,485,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-62,,true,,9501,508,5,5,null,485,2,333
+1762798443297,515,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-63,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,515,0,362
+1762798443296,515,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-63,,true,,9501,508,6,6,null,515,1,362
+1762798443397,510,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-64,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,510,0,348
+1762798443396,510,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-64,,true,,9501,508,6,6,null,510,1,348
+1762798443498,489,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-65,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,489,0,332
+1762798443496,489,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-65,,true,,9501,508,5,5,null,489,2,332
+1762798443598,507,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-66,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,507,0,347
+1762798443597,507,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-66,,true,,9501,508,6,6,null,507,2,347
+1762798443697,516,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-67,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,516,0,363
+1762798443696,516,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-67,,true,,9501,508,6,6,null,516,1,363
+1762798443797,535,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-68,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,535,0,339
+1762798443796,535,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-68,,true,,9501,508,6,6,null,535,2,339
+1762798443900,502,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-69,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,502,0,311
+1762798443899,502,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-69,,true,,9501,508,6,6,null,502,2,311
+1762798443997,493,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-70,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,493,0,340
+1762798443996,493,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-70,,true,,9501,508,5,5,null,493,1,340
+1762798444097,472,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-71,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,472,0,319
+1762798444096,472,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-71,,true,,9501,508,5,5,null,472,1,319
+1762798444198,479,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-72,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,479,0,302
+1762798444197,479,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-72,,true,,9501,508,5,5,null,479,2,302
+1762798444297,526,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-73,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,526,0,334
+1762798444296,526,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-73,,true,,9501,508,6,6,null,526,1,334
+1762798444397,507,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-74,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,507,0,350
+1762798444396,507,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-74,,true,,9501,508,6,6,null,507,2,350
+1762798444496,521,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-75,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,521,0,330
+1762798444495,521,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-75,,true,,9501,508,6,6,null,521,1,330
+1762798444597,510,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-76,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,510,0,309
+1762798444596,510,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-76,,true,,9501,508,6,6,null,510,1,309
+1762798444697,543,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-77,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,543,0,390
+1762798444695,543,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-77,,true,,9501,508,6,6,null,543,3,390
+1762798444799,509,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-78,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,509,0,357
+1762798444798,509,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-78,,true,,9501,508,6,6,null,509,1,357
+1762798444898,531,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-79,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,531,0,347
+1762798444897,531,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-79,,true,,9501,508,6,6,null,531,2,347
+1762798444997,517,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-80,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,517,0,365
+1762798444996,517,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-80,,true,,9501,508,6,6,null,517,2,365
+1762798445096,539,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-81,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,539,0,352
+1762798445095,539,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-81,,true,,9501,508,6,6,null,539,2,352
+1762798445196,520,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-82,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,520,0,326
+1762798445195,520,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-82,,true,,9501,508,6,6,null,520,2,326
+1762798445296,495,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-83,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,495,0,342
+1762798445295,495,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-83,,true,,9501,508,5,5,null,495,2,342
+1762798445398,523,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-84,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,523,0,330
+1762798445397,523,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-84,,true,,9501,508,6,6,null,523,2,330
+1762798445498,495,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-85,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,495,0,344
+1762798445497,495,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-85,,true,,9501,508,5,5,null,495,1,344
+1762798445598,502,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-86,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,502,0,340
+1762798445597,502,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-86,,true,,9501,508,6,6,null,502,2,340
+1762798445697,497,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-87,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,497,0,344
+1762798445696,497,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-87,,true,,9501,508,5,5,null,497,2,344
+1762798445797,508,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-88,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,508,0,342
+1762798445796,508,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-88,,true,,9501,508,6,6,null,508,2,342
+1762798445897,490,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-89,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,490,0,307
+1762798445896,490,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-89,,true,,9501,508,5,5,null,490,2,307
+1762798445996,524,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-90,text,true,,9501,508,6,6,https://map.apps.quattrus.com/editor,524,0,335
+1762798445996,524,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-90,,true,,9501,508,6,6,null,524,0,335
+1762798446098,494,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-91,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,494,0,309
+1762798446097,494,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-91,,true,,9501,508,5,5,null,494,2,309
+1762798446197,498,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-92,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,498,0,324
+1762798446196,498,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-92,,true,,9501,508,5,5,null,498,1,324
+1762798446297,467,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-93,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,467,0,314
+1762798446296,467,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-93,,true,,9501,508,5,5,null,467,1,314
+1762798446396,454,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-94,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,454,0,301
+1762798446395,454,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-94,,true,,9501,508,5,5,null,454,2,301
+1762798446496,465,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-95,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,465,0,313
+1762798446495,465,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-95,,true,,9501,508,5,5,null,465,2,313
+1762798446597,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-96,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1762798446596,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-96,,true,,9501,508,5,5,null,456,2,304
+1762798446697,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-97,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1762798446697,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-97,,true,,9501,508,5,5,null,455,0,303
+1762798446797,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-98,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1762798446797,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-98,,true,,9501,508,5,5,null,458,1,306
+1762798446897,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-99,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,306
+1762798446896,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-99,,true,,9501,508,5,5,null,457,1,306
+1762798446997,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-100,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1762798446996,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-100,,true,,9501,508,5,5,null,458,2,305
+1762798447097,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-101,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,302
+1762798447096,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-101,,true,,9501,508,5,5,null,459,1,302
+1762798447197,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-102,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1762798447196,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-102,,true,,9501,508,5,5,null,458,1,305
+1762798447298,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-103,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1762798447297,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-103,,true,,9501,508,5,5,null,455,2,304
+1762798447397,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-104,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1762798447397,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-104,,true,,9501,508,5,5,null,457,0,304
+1762798447497,454,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-105,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1762798447496,454,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-105,,true,,9501,508,5,5,null,454,2,302
+1762798447596,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-106,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1762798447596,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-106,,true,,9501,508,5,5,null,459,0,306
+1762798447696,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-107,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,302
+1762798447696,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-107,,true,,9501,508,5,5,null,458,0,302
+1762798447796,468,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-108,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,468,0,308
+1762798447796,468,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-108,,true,,9501,508,5,5,null,468,0,308
+1762798447898,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-109,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1762798447897,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-109,,true,,9501,508,5,5,null,456,2,304
+1762798448003,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-110,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,305
+1762798447999,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-110,,true,,9501,508,5,5,null,460,5,305
+1762798448097,471,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-111,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,471,0,320
+1762798448096,471,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-111,,true,,9501,508,5,5,null,471,2,320
+1762798448196,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-112,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1762798448196,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-112,,true,,9501,508,5,5,null,459,0,305
+1762798448297,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-113,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,306
+1762798448296,461,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-113,,true,,9501,508,5,5,null,461,2,306
+1762798448398,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-114,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1762798448397,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-114,,true,,9501,508,5,5,null,455,2,304
+1762798448497,454,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-115,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,454,0,303
+1762798448497,454,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-115,,true,,9501,508,5,5,null,454,0,303
+1762798448597,463,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-116,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,463,0,304
+1762798448596,463,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-116,,true,,9501,508,5,5,null,463,1,304
+1762798448697,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-117,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,302
+1762798448696,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-117,,true,,9501,508,5,5,null,455,1,302
+1762798448796,454,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-118,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1762798448795,454,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-118,,true,,9501,508,5,5,null,454,1,302
+1762798448897,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-119,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,303
+1762798448896,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-119,,true,,9501,508,5,5,null,456,2,303
+1762798448997,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-120,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,305
+1762798448997,461,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-120,,true,,9501,508,5,5,null,461,0,305
+1762798449098,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-121,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,302
+1762798449097,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-121,,true,,9501,508,5,5,null,459,1,302
+1762798449197,462,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-122,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,462,0,307
+1762798449196,462,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-122,,true,,9501,508,5,5,null,462,2,307
+1762798449296,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-123,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,303
+1762798449296,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-123,,true,,9501,508,5,5,null,457,0,303
+1762798449396,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-124,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1762798449395,461,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-124,,true,,9501,508,5,5,null,461,1,307
+1762798449496,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-125,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1762798449496,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-125,,true,,9501,508,5,5,null,460,0,307
+1762798449597,463,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-126,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,463,0,306
+1762798449596,463,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-126,,true,,9501,508,5,5,null,463,2,306
+1762798449699,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-127,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1762798449698,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-127,,true,,9501,508,5,5,null,458,2,305
+1762798449797,468,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-128,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,468,0,316
+1762798449796,468,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-128,,true,,9501,508,5,5,null,468,2,316
+1762798449897,476,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-129,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,476,0,315
+1762798449896,476,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-129,,true,,9501,508,5,5,null,476,2,315
+1762798449998,454,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-130,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,454,0,303
+1762798449997,454,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-130,,true,,9501,508,5,5,null,454,2,303
+1762798450097,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-131,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1762798450097,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-131,,true,,9501,508,5,5,null,458,0,306
+1762798450197,462,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-132,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,462,0,306
+1762798450196,462,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-132,,true,,9501,508,5,5,null,462,2,306
+1762798450297,471,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-133,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,471,0,320
+1762798450296,471,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-133,,true,,9501,508,5,5,null,471,1,320
+1762798450397,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-134,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1762798450396,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-134,,true,,9501,508,5,5,null,457,1,304
+1762798450498,469,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-135,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,469,0,308
+1762798450497,469,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-135,,true,,9501,508,5,5,null,469,2,308
+1762798450597,478,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-136,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,478,0,305
+1762798450597,478,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-136,,true,,9501,508,5,5,null,478,1,305
+1762798450696,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-137,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1762798450696,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-137,,true,,9501,508,5,5,null,457,0,305
+1762798450796,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-138,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1762798450796,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-138,,true,,9501,508,5,5,null,460,0,307
+1762798450897,465,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-139,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,465,0,306
+1762798450896,465,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-139,,true,,9501,508,5,5,null,465,1,306
+1762798450998,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-140,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1762798450997,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-140,,true,,9501,508,5,5,null,459,1,306
+1762798451097,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-141,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1762798451096,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-141,,true,,9501,508,5,5,null,456,2,305
+1762798451196,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-142,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1762798451195,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-142,,true,,9501,508,5,5,null,457,1,304
+1762798451297,463,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-143,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,463,0,308
+1762798451296,463,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-143,,true,,9501,508,5,5,null,463,1,308
+1762798451396,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-144,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1762798451396,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-144,,true,,9501,508,5,5,null,457,1,304
+1762798451496,462,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-145,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,462,0,306
+1762798451496,462,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-145,,true,,9501,508,5,5,null,462,0,306
+1762798451597,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-146,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1762798451596,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-146,,true,,9501,508,5,5,null,456,1,305
+1762798451696,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-147,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,307
+1762798451696,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-147,,true,,9501,508,5,5,null,459,0,307
+1762798451798,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-148,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1762798451797,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-148,,true,,9501,508,5,5,null,455,2,303
+1762798451898,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-149,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1762798451897,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-149,,true,,9501,508,5,5,null,457,1,304
+1762798451997,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-150,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1762798451996,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-150,,true,,9501,508,5,5,null,458,1,305
+1762798452098,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-151,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1762798452097,461,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-151,,true,,9501,508,5,5,null,461,2,307
+1762798452199,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-152,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1762798452198,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-152,,true,,9501,508,5,5,null,460,2,307
+1762798452298,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-153,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,308
+1762798452297,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-153,,true,,9501,508,5,5,null,460,2,308
+1762798452398,462,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-154,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1762798452397,462,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-154,,true,,9501,508,5,5,null,462,2,308
+1762798452499,479,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-155,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,479,0,305
+1762798452497,479,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-155,,true,,9501,508,5,5,null,479,3,305
+1762798452599,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-156,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1762798452598,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-156,,true,,9501,508,5,5,null,459,1,306
+1762798452698,462,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-157,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1762798452697,462,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-157,,true,,9501,508,5,5,null,461,1,307
+1762798452798,463,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-158,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,463,0,306
+1762798452797,463,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-158,,true,,9501,508,5,5,null,463,1,306
+1762798452897,474,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-159,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,474,0,319
+1762798452896,474,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-159,,true,,9501,508,5,5,null,474,1,319
+1762798452998,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-160,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,304
+1762798452997,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-160,,true,,9501,508,5,5,null,458,2,304
+1762798453099,463,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-161,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,463,0,310
+1762798453097,463,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-161,,true,,9501,508,5,5,null,463,3,310
+1762798453198,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-162,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1762798453197,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-162,,true,,9501,508,5,5,null,460,1,307
+1762798453298,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-163,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1762798453297,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-163,,true,,9501,508,5,5,null,456,1,305
+1762798453398,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-164,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1762798453397,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-164,,true,,9501,508,5,5,null,457,1,305
+1762798453499,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-165,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1762798453498,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-165,,true,,9501,508,5,5,null,459,1,306
+1762798453599,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-166,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1762798453598,461,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-166,,true,,9501,508,5,5,null,461,1,308
+1762798453699,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-167,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1762798453697,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-167,,true,,9501,508,5,5,null,457,2,304
+1762798453798,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-168,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,306
+1762798453797,461,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-168,,true,,9501,508,5,5,null,461,2,306
+1762798453899,466,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-169,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,466,0,309
+1762798453898,466,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-169,,true,,9501,508,5,5,null,466,1,309
+1762798454000,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-170,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,303
+1762798453998,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-170,,true,,9501,508,5,5,null,456,2,303
+1762798454100,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-171,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1762798454099,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-171,,true,,9501,508,5,5,null,460,2,307
+1762798454197,486,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-172,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,485,0,306
+1762798454196,486,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-172,,true,,9501,508,5,5,null,485,1,306
+1762798454297,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-173,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,308
+1762798454296,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-173,,true,,9501,508,5,5,null,460,2,308
+1762798454398,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-174,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1762798454397,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-174,,true,,9501,508,5,5,null,459,2,306
+1762798454499,494,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-175,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,494,0,339
+1762798454497,494,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-175,,true,,9501,508,5,5,null,494,3,339
+1762798454598,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-176,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,303
+1762798454597,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-176,,true,,9501,508,5,5,null,458,2,303
+1762798454697,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-177,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,308
+1762798454696,461,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-177,,true,,9501,508,5,5,null,460,1,308
+1762798454798,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-178,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1762798454797,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-178,,true,,9501,508,5,5,null,455,1,304
+1762798454899,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-179,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,303
+1762798454898,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-179,,true,,9501,508,5,5,null,460,2,303
+1762798454998,458,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-180,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1762798454997,458,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-180,,true,,9501,508,5,5,null,458,1,305
+1762798455097,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-181,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1762798455096,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-181,,true,,9501,508,5,5,null,457,1,305
+1762798455198,456,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-182,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,456,0,303
+1762798455197,456,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-182,,true,,9501,508,5,5,null,456,2,303
+1762798455298,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-183,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,303
+1762798455296,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-183,,true,,9501,508,5,5,null,457,2,303
+1762798455398,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-184,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,302
+1762798455397,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-184,,true,,9501,508,5,5,null,455,1,302
+1762798455497,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-185,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,307
+1762798455497,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-185,,true,,9501,508,5,5,null,459,0,307
+1762798455599,467,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-186,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,466,0,315
+1762798455598,467,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-186,,true,,9501,508,5,5,null,466,1,315
+1762798455698,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-187,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1762798455697,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-187,,true,,9501,508,5,5,null,455,2,303
+1762798455798,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-188,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1762798455797,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-188,,true,,9501,508,5,5,null,459,2,306
+1762798455898,463,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-189,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,463,0,312
+1762798455897,463,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-189,,true,,9501,508,5,5,null,463,2,312
+1762798455998,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-190,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,302
+1762798455997,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-190,,true,,9501,508,5,5,null,455,1,302
+1762798456100,454,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-191,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,454,0,303
+1762798456099,454,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-191,,true,,9501,508,5,5,null,454,2,303
+1762798456198,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-192,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1762798456197,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-192,,true,,9501,508,5,5,null,455,2,304
+1762798456297,460,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-193,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,460,0,303
+1762798456296,460,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-193,,true,,9501,508,5,5,null,460,2,303
+1762798456398,461,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-194,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,461,0,305
+1762798456397,461,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-194,,true,,9501,508,5,5,null,461,1,305
+1762798456496,454,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-195,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1762798456495,454,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-195,,true,,9501,508,5,5,null,454,1,302
+1762798456598,457,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-196,text,true,,9501,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1762798456597,457,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-196,,true,,9501,508,5,5,null,457,1,305
+1762798456697,454,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-197,text,true,,9501,508,4,4,https://map.apps.quattrus.com/editor,454,0,302
+1762798456697,454,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-197,,true,,9501,508,4,4,null,454,1,302
+1762798456797,455,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-198,text,true,,9501,508,3,3,https://map.apps.quattrus.com/editor,455,0,303
+1762798456796,455,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-198,,true,,9501,508,3,3,null,455,1,303
+1762798456896,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-199,text,true,,9501,508,2,2,https://map.apps.quattrus.com/editor,459,0,305
+1762798456895,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-199,,true,,9501,508,2,2,null,459,1,305
+1762798456997,459,https://map.apps.quattrus.com/editor,200,OK,Thread Group 1-200,text,true,,9501,508,1,1,https://map.apps.quattrus.com/editor,459,0,304
+1762798456997,459,Test stress,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-200,,true,,9501,508,1,1,null,459,0,304
