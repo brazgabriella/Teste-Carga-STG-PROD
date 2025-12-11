@@ -40,6 +40,14 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 | Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                 |
 | Teste de estresse                | `stresse - 200 Usuários Simultâneos; Ramp-up: 20 segundos`  |
 
+## 3° Teste:
+`Ambiente Testado:` [https://map.apps.quattrus.com/editor](https://map.apps.quattrus.com/editor)
+
+| Cenário                          |                                                             |
+| -------------------------------- | ------------------------------------------------------------|
+| Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                 |
+| Teste de estresse                | `stresse - 200 Usuários Simultâneos; Ramp-up: 20 segundos`  |
+
 ## Ferramentas utilizadas
 
 - [Apache JMeter](https://jmeter.apache.org/) v5.6.3
