@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1765468702131,573,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-1,text,true,,9505,508,6,6,https://map.apps.quattrus.com/editor,573,0,416
+1765468702130,573,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-1,,true,,9505,508,6,6,null,573,2,416
+1765468702230,478,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-2,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,478,0,321
+1765468702229,478,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-2,,true,,9505,508,5,5,null,478,1,321
+1765468702330,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-3,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1765468702329,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-3,,true,,9505,508,5,5,null,459,1,305
+1765468702430,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-4,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468702429,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-4,,true,,9505,508,5,5,null,460,2,307
+1765468702530,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-5,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468702529,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-5,,true,,9505,508,5,5,null,460,2,307
+1765468702630,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-6,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,305
+1765468702629,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-6,,true,,9505,508,5,5,null,460,1,305
+1765468702729,465,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-7,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,311
+1765468702728,465,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-7,,true,,9505,508,5,5,null,465,1,311
+1765468702831,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-8,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468702830,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-8,,true,,9505,508,5,5,null,461,1,308
+1765468702931,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-9,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,308
+1765468702930,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-9,,true,,9505,508,5,5,null,463,1,308
+1765468703030,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-10,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,306
+1765468703029,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-10,,true,,9505,508,5,5,null,462,1,306
+1765468703131,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-11,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468703130,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-11,,true,,9505,508,5,5,null,461,1,308
+1765468703232,465,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-12,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,311
+1765468703230,465,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-12,,true,,9505,508,5,5,null,465,3,311
+1765468703330,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-13,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468703329,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-13,,true,,9505,508,5,5,null,460,1,307
+1765468703430,473,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-14,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,473,0,306
+1765468703429,473,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-14,,true,,9505,508,5,5,null,473,2,306
+1765468703529,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-15,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,306
+1765468703529,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-15,,true,,9505,508,5,5,null,460,0,306
+1765468703628,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-16,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1765468703628,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-16,,true,,9505,508,5,5,null,458,1,305
+1765468703730,464,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-17,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,311
+1765468703729,464,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-17,,true,,9505,508,5,5,null,464,1,311
+1765468703830,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-18,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,310
+1765468703829,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-18,,true,,9505,508,5,5,null,466,2,310
+1765468703929,464,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-19,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,306
+1765468703928,464,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-19,,true,,9505,508,5,5,null,464,1,306
+1765468704030,457,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-20,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1765468704029,457,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-20,,true,,9505,508,5,5,null,457,2,304
+1765468704131,464,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-21,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,309
+1765468704130,464,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-21,,true,,9505,508,5,5,null,464,2,309
+1765468704230,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-22,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,306
+1765468704229,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-22,,true,,9505,508,5,5,null,463,1,306
+1765468704329,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-23,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1765468704328,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-23,,true,,9505,508,5,5,null,461,2,307
+1765468704430,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-24,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,307
+1765468704429,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-24,,true,,9505,508,5,5,null,463,1,307
+1765468704531,465,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-25,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,308
+1765468704530,465,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-25,,true,,9505,508,5,5,null,465,1,308
+1765468704630,476,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-26,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,476,0,323
+1765468704629,476,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-26,,true,,9505,508,5,5,null,476,2,323
+1765468704729,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-27,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,309
+1765468704728,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-27,,true,,9505,508,5,5,null,463,1,309
+1765468704830,464,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-28,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,310
+1765468704829,464,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-28,,true,,9505,508,5,5,null,464,2,310
+1765468704930,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-29,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468704929,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-29,,true,,9505,508,5,5,null,462,2,308
+1765468705031,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-30,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1765468705029,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-30,,true,,9505,508,5,5,null,459,3,305
+1765468705128,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-31,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468705127,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-31,,true,,9505,508,5,5,null,460,2,307
+1765468705230,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-32,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,307
+1765468705229,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-32,,true,,9505,508,5,5,null,466,2,307
+1765468705330,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-33,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,309
+1765468705329,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-33,,true,,9505,508,5,5,null,462,1,309
+1765468705431,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-34,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1765468705429,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-34,,true,,9505,508,5,5,null,459,3,305
+1765468705528,476,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-35,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,476,0,323
+1765468705527,476,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-35,,true,,9505,508,5,5,null,476,1,323
+1765468705630,465,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-36,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,308
+1765468705628,465,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-36,,true,,9505,508,5,5,null,464,2,308
+1765468705730,471,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-37,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,471,0,313
+1765468705729,471,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-37,,true,,9505,508,5,5,null,471,2,313
+1765468705829,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-38,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468705828,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-38,,true,,9505,508,5,5,null,461,1,308
+1765468705930,464,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-39,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,311
+1765468705929,464,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-39,,true,,9505,508,5,5,null,464,1,311
+1765468706029,469,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-40,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,469,0,316
+1765468706028,469,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-40,,true,,9505,508,5,5,null,469,2,316
+1765468706130,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-41,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468706129,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-41,,true,,9505,508,5,5,null,462,2,308
+1765468706230,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-42,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,307
+1765468706229,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-42,,true,,9505,508,5,5,null,463,2,307
+1765468706329,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-43,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468706328,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-43,,true,,9505,508,5,5,null,462,2,308
+1765468706430,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-44,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468706429,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-44,,true,,9505,508,5,5,null,461,2,308
+1765468706530,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-45,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1765468706529,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-45,,true,,9505,508,5,5,null,459,1,306
+1765468706629,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-46,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,307
+1765468706628,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-46,,true,,9505,508,5,5,null,462,2,307
+1765468706729,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-47,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1765468706729,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-47,,true,,9505,508,5,5,null,461,0,307
+1765468706830,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-48,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,308
+1765468706829,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-48,,true,,9505,508,5,5,null,466,1,308
+1765468706931,464,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-49,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,310
+1765468706929,464,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-49,,true,,9505,508,5,5,null,464,2,310
+1765468707031,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-50,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,306
+1765468707030,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-50,,true,,9505,508,5,5,null,462,2,306
+1765468707130,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-51,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1765468707129,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-51,,true,,9505,508,5,5,null,458,2,306
+1765468707228,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-52,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468707228,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-52,,true,,9505,508,5,5,null,461,0,308
+1765468707330,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-53,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,310
+1765468707329,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-53,,true,,9505,508,5,5,null,466,1,310
+1765468707430,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-54,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,310
+1765468707429,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-54,,true,,9505,508,5,5,null,466,1,310
+1765468707528,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-55,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468707528,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-55,,true,,9505,508,5,5,null,461,0,308
+1765468707629,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-56,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,307
+1765468707628,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-56,,true,,9505,508,5,5,null,462,1,307
+1765468707730,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-57,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468707729,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-57,,true,,9505,508,5,5,null,462,2,308
+1765468707828,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-58,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1765468707828,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-58,,true,,9505,508,5,5,null,461,0,307
+1765468707929,456,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-59,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1765468707928,456,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-59,,true,,9505,508,5,5,null,456,1,304
+1765468708029,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-60,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,306
+1765468708028,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-60,,true,,9505,508,5,5,null,461,1,306
+1765468708131,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-61,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1765468708130,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-61,,true,,9505,508,5,5,null,459,1,306
+1765468708230,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-62,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468708229,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-62,,true,,9505,508,5,5,null,460,2,307
+1765468708330,457,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-63,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1765468708329,457,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-63,,true,,9505,508,5,5,null,457,2,305
+1765468708431,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-64,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,309
+1765468708430,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-64,,true,,9505,508,5,5,null,462,2,309
+1765468708530,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-65,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468708529,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-65,,true,,9505,508,5,5,null,462,1,308
+1765468708634,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-66,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1765468708633,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-66,,true,,9505,508,5,5,null,461,1,307
+1765468708729,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-67,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,305
+1765468708728,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-67,,true,,9505,508,5,5,null,461,1,305
+1765468708830,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-68,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468708829,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-68,,true,,9505,508,5,5,null,460,2,307
+1765468708930,457,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-69,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1765468708929,457,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-69,,true,,9505,508,5,5,null,457,2,304
+1765468709029,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-70,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1765468709028,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-70,,true,,9505,508,5,5,null,458,1,305
+1765468709129,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-71,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1765468709129,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-71,,true,,9505,508,5,5,null,458,1,306
+1765468709228,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-72,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,306
+1765468709227,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-72,,true,,9505,508,5,5,null,462,1,306
+1765468709329,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-73,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,309
+1765468709328,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-73,,true,,9505,508,5,5,null,461,1,309
+1765468709430,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-74,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,307
+1765468709429,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-74,,true,,9505,508,5,5,null,459,1,307
+1765468709529,457,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-75,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1765468709528,457,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-75,,true,,9505,508,5,5,null,457,1,304
+1765468709630,457,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-76,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1765468709629,457,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-76,,true,,9505,508,5,5,null,457,2,305
+1765468709730,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-77,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1765468709729,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-77,,true,,9505,508,5,5,null,458,1,305
+1765468709829,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-78,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,313
+1765468709828,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-78,,true,,9505,508,5,5,null,465,1,313
+1765468709929,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-79,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,307
+1765468709929,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-79,,true,,9505,508,5,5,null,459,1,307
+1765468710029,455,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-80,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1765468710028,455,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-80,,true,,9505,508,5,5,null,455,1,303
+1765468710129,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-81,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,305
+1765468710128,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-81,,true,,9505,508,5,5,null,460,1,305
+1765468710229,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-82,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1765468710228,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-82,,true,,9505,508,5,5,null,458,2,306
+1765468710329,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-83,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,305
+1765468710328,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-83,,true,,9505,508,5,5,null,460,1,305
+1765468710429,457,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-84,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1765468710428,457,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-84,,true,,9505,508,5,5,null,457,2,304
+1765468710528,469,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-85,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,469,0,310
+1765468710527,469,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-85,,true,,9505,508,5,5,null,469,1,310
+1765468710629,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-86,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,306
+1765468710628,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-86,,true,,9505,508,5,5,null,460,2,306
+1765468710729,465,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-87,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,311
+1765468710729,465,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-87,,true,,9505,508,5,5,null,465,0,311
+1765468710828,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-88,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468710827,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-88,,true,,9505,508,5,5,null,461,2,308
+1765468710929,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-89,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,309
+1765468710928,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-89,,true,,9505,508,5,5,null,462,1,309
+1765468711030,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-90,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,305
+1765468711029,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-90,,true,,9505,508,5,5,null,460,1,305
+1765468711130,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-91,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1765468711129,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-91,,true,,9505,508,5,5,null,459,2,305
+1765468711229,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-92,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,309
+1765468711228,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-92,,true,,9505,508,5,5,null,462,1,309
+1765468711331,468,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-93,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,468,0,307
+1765468711330,468,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-93,,true,,9505,508,5,5,null,468,1,307
+1765468711430,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-94,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1765468711429,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-94,,true,,9505,508,5,5,null,459,1,305
+1765468711529,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-95,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,306
+1765468711528,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-95,,true,,9505,508,5,5,null,460,1,306
+1765468711630,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-96,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,313
+1765468711629,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-96,,true,,9505,508,5,5,null,465,1,313
+1765468711731,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-97,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,307
+1765468711730,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-97,,true,,9505,508,5,5,null,458,1,307
+1765468711829,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-98,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1765468711828,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-98,,true,,9505,508,5,5,null,459,2,306
+1765468711929,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-99,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1765468711928,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-99,,true,,9505,508,5,5,null,458,1,305
+1765468712030,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-100,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,304
+1765468712029,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-100,,true,,9505,508,5,5,null,458,1,304
+1765468712130,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-101,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468712129,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-101,,true,,9505,508,5,5,null,461,1,308
+1765468712229,464,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-102,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,309
+1765468712228,464,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-102,,true,,9505,508,5,5,null,464,1,309
+1765468712330,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-103,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,304
+1765468712329,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-103,,true,,9505,508,5,5,null,459,1,304
+1765468712430,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-104,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468712429,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-104,,true,,9505,508,5,5,null,460,1,307
+1765468712528,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-105,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,309
+1765468712527,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-105,,true,,9505,508,5,5,null,463,1,309
+1765468712628,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-106,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1765468712628,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-106,,true,,9505,508,5,5,null,458,0,305
+1765468712730,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-107,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468712729,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-107,,true,,9505,508,5,5,null,461,2,308
+1765468712830,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-108,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,307
+1765468712829,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-108,,true,,9505,508,5,5,null,459,1,307
+1765468712929,455,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-109,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,302
+1765468712928,455,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-109,,true,,9505,508,5,5,null,455,2,302
+1765468713030,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-110,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,306
+1765468713029,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-110,,true,,9505,508,5,5,null,460,1,306
+1765468713130,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-111,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,304
+1765468713129,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-111,,true,,9505,508,5,5,null,458,2,304
+1765468713230,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-112,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1765468713229,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-112,,true,,9505,508,5,5,null,458,1,305
+1765468713328,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-113,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,308
+1765468713328,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-113,,true,,9505,508,5,5,null,463,1,308
+1765468713429,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-114,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1765468713428,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-114,,true,,9505,508,5,5,null,459,1,306
+1765468713530,465,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-115,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,309
+1765468713530,465,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-115,,true,,9505,508,5,5,null,465,0,309
+1765468713629,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-116,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468713628,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-116,,true,,9505,508,5,5,null,461,1,308
+1765468713728,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-117,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468713728,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-117,,true,,9505,508,5,5,null,460,1,307
+1765468713830,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-118,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,311
+1765468713829,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-118,,true,,9505,508,5,5,null,463,2,311
+1765468713929,473,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-119,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,473,0,309
+1765468713928,473,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-119,,true,,9505,508,5,5,null,473,2,309
+1765468714029,467,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-120,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,312
+1765468714027,467,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-120,,true,,9505,508,5,5,null,466,2,312
+1765468714130,472,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-121,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,472,0,316
+1765468714128,472,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-121,,true,,9505,508,5,5,null,472,3,316
+1765468714230,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-122,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468714228,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-122,,true,,9505,508,5,5,null,461,3,308
+1765468714330,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-123,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1765468714329,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-123,,true,,9505,508,5,5,null,458,2,306
+1765468714430,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-124,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468714429,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-124,,true,,9505,508,5,5,null,460,2,307
+1765468714529,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-125,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1765468714528,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-125,,true,,9505,508,5,5,null,461,2,307
+1765468714629,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-126,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468714628,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-126,,true,,9505,508,5,5,null,462,2,308
+1765468714731,464,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-127,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,311
+1765468714729,464,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-127,,true,,9505,508,5,5,null,464,3,311
+1765468714830,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-128,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468714829,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-128,,true,,9505,508,5,5,null,460,2,307
+1765468714930,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-129,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468714929,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-129,,true,,9505,508,5,5,null,461,1,308
+1765468715030,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-130,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,309
+1765468715028,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-130,,true,,9505,508,5,5,null,461,3,309
+1765468715131,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-131,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,309
+1765468715129,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-131,,true,,9505,508,5,5,null,462,3,309
+1765468715230,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-132,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468715228,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-132,,true,,9505,508,5,5,null,461,3,308
+1765468715330,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-133,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468715328,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-133,,true,,9505,508,5,5,null,461,2,308
+1765468715430,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-134,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,309
+1765468715428,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-134,,true,,9505,508,5,5,null,461,3,309
+1765468715530,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-135,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468715529,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-135,,true,,9505,508,5,5,null,460,1,307
+1765468715631,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-136,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1765468715629,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-136,,true,,9505,508,5,5,null,458,3,305
+1765468715730,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-137,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,308
+1765468715729,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-137,,true,,9505,508,5,5,null,460,1,308
+1765468715831,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-138,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,311
+1765468715830,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-138,,true,,9505,508,5,5,null,466,2,311
+1765468715930,471,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-139,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,471,0,317
+1765468715929,471,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-139,,true,,9505,508,5,5,null,471,1,317
+1765468716030,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-140,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,305
+1765468716029,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-140,,true,,9505,508,5,5,null,458,2,305
+1765468716131,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-141,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1765468716129,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-141,,true,,9505,508,5,5,null,458,3,306
+1765468716229,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-142,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,308
+1765468716228,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-142,,true,,9505,508,5,5,null,461,2,308
+1765468716330,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-143,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468716329,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-143,,true,,9505,508,5,5,null,462,1,308
+1765468716429,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-144,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,310
+1765468716428,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-144,,true,,9505,508,5,5,null,463,1,310
+1765468716531,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-145,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1765468716530,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-145,,true,,9505,508,5,5,null,459,2,306
+1765468716630,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-146,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,309
+1765468716630,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-146,,true,,9505,508,5,5,null,461,0,309
+1765468716731,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-147,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,307
+1765468716730,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-147,,true,,9505,508,5,5,null,459,1,307
+1765468716829,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-148,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,306
+1765468716828,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-148,,true,,9505,508,5,5,null,460,1,306
+1765468716931,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-149,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,309
+1765468716930,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-149,,true,,9505,508,5,5,null,462,1,309
+1765468717031,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-150,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468717030,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-150,,true,,9505,508,5,5,null,462,2,308
+1765468717129,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-151,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,309
+1765468717128,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-151,,true,,9505,508,5,5,null,462,1,309
+1765468717229,455,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-152,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1765468717228,455,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-152,,true,,9505,508,5,5,null,454,1,302
+1765468717330,457,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-153,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1765468717329,457,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-153,,true,,9505,508,5,5,null,457,1,305
+1765468717430,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-154,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,311
+1765468717429,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-154,,true,,9505,508,5,5,null,463,2,311
+1765468717529,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-155,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1765468717528,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-155,,true,,9505,508,5,5,null,458,1,306
+1765468717630,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-156,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,304
+1765468717629,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-156,,true,,9505,508,5,5,null,459,1,304
+1765468717729,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-157,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1765468717728,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-157,,true,,9505,508,5,5,null,461,2,307
+1765468717831,457,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-158,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1765468717829,457,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-158,,true,,9505,508,5,5,null,457,2,304
+1765468717930,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-159,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,306
+1765468717929,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-159,,true,,9505,508,5,5,null,460,1,306
+1765468718030,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-160,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,308
+1765468718029,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-160,,true,,9505,508,5,5,null,459,2,308
+1765468718129,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-161,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1765468718127,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-161,,true,,9505,508,5,5,null,459,3,305
+1765468718229,456,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-162,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1765468718228,456,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-162,,true,,9505,508,5,5,null,456,1,304
+1765468718330,467,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-163,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,313
+1765468718328,467,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-163,,true,,9505,508,5,5,null,467,2,313
+1765468718428,456,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-164,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1765468718427,456,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-164,,true,,9505,508,5,5,null,456,2,304
+1765468718529,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-165,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1765468718528,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-165,,true,,9505,508,5,5,null,459,1,306
+1765468718630,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-166,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1765468718629,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-166,,true,,9505,508,5,5,null,459,2,306
+1765468718729,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-167,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468718728,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-167,,true,,9505,508,5,5,null,460,1,307
+1765468718829,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-168,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,309
+1765468718828,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-168,,true,,9505,508,5,5,null,462,2,309
+1765468718930,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-169,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,307
+1765468718929,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-169,,true,,9505,508,5,5,null,463,2,307
+1765468719030,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-170,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,305
+1765468719029,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-170,,true,,9505,508,5,5,null,459,1,305
+1765468719129,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-171,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468719127,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-171,,true,,9505,508,5,5,null,462,3,308
+1765468719229,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-172,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468719228,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-172,,true,,9505,508,5,5,null,460,2,307
+1765468719330,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-173,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,307
+1765468719329,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-173,,true,,9505,508,5,5,null,462,2,307
+1765468719429,464,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-174,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,310
+1765468719428,464,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-174,,true,,9505,508,5,5,null,464,1,310
+1765468719529,467,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-175,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,315
+1765468719528,467,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-175,,true,,9505,508,5,5,null,467,2,315
+1765468719631,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-176,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,306
+1765468719630,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-176,,true,,9505,508,5,5,null,460,2,306
+1765468719730,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-177,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,312
+1765468719728,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-177,,true,,9505,508,5,5,null,466,2,312
+1765468719829,455,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-178,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1765468719828,455,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-178,,true,,9505,508,5,5,null,455,2,303
+1765468719928,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-179,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1765468719927,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-179,,true,,9505,508,5,5,null,457,2,305
+1765468720029,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-180,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1765468720028,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-180,,true,,9505,508,5,5,null,461,2,307
+1765468720130,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-181,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,309
+1765468720129,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-181,,true,,9505,508,5,5,null,463,2,309
+1765468720229,467,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-182,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,312
+1765468720228,467,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-182,,true,,9505,508,5,5,null,467,1,312
+1765468720330,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-183,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468720330,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-183,,true,,9505,508,5,5,null,460,0,307
+1765468720430,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-184,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,307
+1765468720429,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-184,,true,,9505,508,5,5,null,459,2,307
+1765468720529,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-185,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1765468720528,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-185,,true,,9505,508,5,5,null,462,1,308
+1765468720629,466,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-186,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,311
+1765468720628,466,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-186,,true,,9505,508,5,5,null,466,1,311
+1765468720730,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-187,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,309
+1765468720729,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-187,,true,,9505,508,5,5,null,461,2,309
+1765468720830,463,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-188,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,310
+1765468720829,463,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-188,,true,,9505,508,5,5,null,463,2,310
+1765468720929,460,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-189,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1765468720928,460,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-189,,true,,9505,508,5,5,null,460,1,307
+1765468721031,458,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-190,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,304
+1765468721029,458,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-190,,true,,9505,508,5,5,null,457,2,304
+1765468721130,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-191,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1765468721129,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-191,,true,,9505,508,5,5,null,459,2,306
+1765468721229,476,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-192,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,476,0,306
+1765468721228,476,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-192,,true,,9505,508,5,5,null,476,2,306
+1765468721330,459,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-193,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1765468721329,459,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-193,,true,,9505,508,5,5,null,459,2,306
+1765468721430,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-194,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,309
+1765468721429,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-194,,true,,9505,508,5,5,null,461,2,309
+1765468721530,457,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-195,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,305
+1765468721529,457,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-195,,true,,9505,508,5,5,null,457,2,305
+1765468721630,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-196,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,307
+1765468721628,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-196,,true,,9505,508,5,5,null,461,3,307
+1765468721730,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-197,text,true,,9505,508,4,4,https://map.apps.quattrus.com/editor,461,0,305
+1765468721729,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-197,,true,,9505,508,4,4,null,461,2,305
+1765468721830,461,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-198,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,461,0,305
+1765468721828,461,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-198,,true,,9505,508,3,3,null,461,3,305
+1765468721931,462,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-199,text,true,,9505,508,2,2,https://map.apps.quattrus.com/editor,462,0,309
+1765468721930,462,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-199,,true,,9505,508,2,2,null,462,1,309
+1765468722030,465,https://map.apps.quattrus.com/editor,200,OK,Estresse - 200 usuários 1-200,text,true,,9505,508,1,1,https://map.apps.quattrus.com/editor,465,0,312
+1765468722029,465,GET /editor – PROD,200,"Number of samples in transaction : 1, number of failing samples : 0",Estresse - 200 usuários 1-200,,true,,9505,508,1,1,null,465,1,312
