@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1767634128929,743,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-3,text,true,,9505,508,6,6,https://map.apps.quattrus.com/editor,722,0,490
+1767634128928,743,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-3,,true,,9505,508,6,6,null,722,8,490
+1767634128607,1113,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-1,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,1113,0,812
+1767634128535,1113,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-1,,true,,9505,508,5,5,null,1113,73,812
+1767634128731,1037,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-2,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,1037,0,688
+1767634128730,1037,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-2,,true,,9505,508,5,5,null,1037,2,688
+1767634129129,671,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-4,text,true,,9505,508,4,4,https://map.apps.quattrus.com/editor,671,0,323
+1767634129128,671,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-4,,true,,9505,508,4,4,null,671,2,323
+1767634129328,556,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-5,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,556,0,339
+1767634129326,556,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-5,,true,,9505,508,3,3,null,556,3,339
+1767634129532,587,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-6,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,586,0,419
+1767634129529,587,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-6,,true,,9505,508,3,3,null,586,3,419
+1767634129727,529,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-7,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,528,0,372
+1767634129726,529,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-7,,true,,9505,508,3,3,null,528,2,372
+1767634129927,481,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-8,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,481,0,326
+1767634129926,481,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-8,,true,,9505,508,3,3,null,481,2,326
+1767634130127,482,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-9,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,482,0,325
+1767634130126,482,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-9,,true,,9505,508,3,3,null,482,2,325
+1767634130327,475,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-10,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,475,0,314
+1767634130326,475,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-10,,true,,9505,508,3,3,null,475,2,314
+1767634130527,503,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-11,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,503,0,334
+1767634130526,503,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-11,,true,,9505,508,3,3,null,503,2,334
+1767634130726,468,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-12,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,468,0,316
+1767634130725,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-12,,true,,9505,508,3,3,null,468,2,316
+1767634130929,487,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-13,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,487,0,325
+1767634130928,487,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-13,,true,,9505,508,3,3,null,487,2,325
+1767634131128,481,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-14,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,481,0,324
+1767634131127,481,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-14,,true,,9505,508,3,3,null,481,2,324
+1767634131327,506,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-15,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,506,0,336
+1767634131326,506,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-15,,true,,9505,508,3,3,null,506,2,336
+1767634131529,473,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-16,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,473,0,316
+1767634131528,473,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-16,,true,,9505,508,3,3,null,473,1,316
+1767634131729,487,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-17,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,487,0,332
+1767634131728,487,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-17,,true,,9505,508,3,3,null,487,2,332
+1767634131926,477,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-18,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,477,0,320
+1767634131925,477,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-18,,true,,9505,508,3,3,null,477,1,320
+1767634132129,482,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-19,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,482,0,322
+1767634132128,482,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-19,,true,,9505,508,3,3,null,482,2,322
+1767634132329,485,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-20,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,485,0,327
+1767634132328,485,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-20,,true,,9505,508,3,3,null,485,1,327
+1767634132532,473,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-21,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,473,0,309
+1767634132530,473,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-21,,true,,9505,508,3,3,null,473,3,309
+1767634132730,497,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-22,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,497,0,325
+1767634132729,497,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-22,,true,,9505,508,3,3,null,497,2,325
+1767634132928,471,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-23,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,471,0,313
+1767634132927,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-23,,true,,9505,508,3,3,null,471,2,313
+1767634133130,480,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-24,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,480,0,320
+1767634133130,480,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-24,,true,,9505,508,3,3,null,480,1,320
+1767634133330,466,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-25,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,466,0,311
+1767634133329,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-25,,true,,9505,508,3,3,null,466,2,311
+1767634133530,484,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-26,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,484,0,321
+1767634133529,484,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-26,,true,,9505,508,3,3,null,484,2,321
+1767634133729,492,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-27,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,492,0,332
+1767634133728,492,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-27,,true,,9505,508,3,3,null,492,2,332
+1767634133928,489,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-28,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,489,0,332
+1767634133927,489,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-28,,true,,9505,508,3,3,null,489,2,332
+1767634134127,492,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-29,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,492,0,333
+1767634134126,492,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-29,,true,,9505,508,3,3,null,492,3,333
+1767634134327,469,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-30,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,469,0,313
+1767634134326,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-30,,true,,9505,508,3,3,null,469,2,313
+1767634134527,488,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-31,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,488,0,324
+1767634134526,488,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-31,,true,,9505,508,3,3,null,488,2,324
+1767634134728,468,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-32,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,468,0,314
+1767634134727,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-32,,true,,9505,508,3,3,null,468,2,314
+1767634134927,466,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-33,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,466,0,313
+1767634134926,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-33,,true,,9505,508,3,3,null,466,2,313
+1767634135127,488,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-34,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,488,0,326
+1767634135126,488,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-34,,true,,9505,508,3,3,null,488,2,326
+1767634135326,469,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-35,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,469,0,315
+1767634135325,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-35,,true,,9505,508,3,3,null,469,2,315
+1767634135525,477,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-36,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,477,0,320
+1767634135524,477,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-36,,true,,9505,508,3,3,null,477,2,320
+1767634135727,467,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-37,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,467,0,313
+1767634135725,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-37,,true,,9505,508,3,3,null,467,3,313
+1767634135926,508,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-38,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,508,0,327
+1767634135925,508,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-38,,true,,9505,508,3,3,null,508,2,327
+1767634136124,480,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-39,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,480,0,319
+1767634136124,480,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-39,,true,,9505,508,3,3,null,480,1,319
+1767634136326,468,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-40,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,467,0,314
+1767634136324,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-40,,true,,9505,508,3,3,null,467,2,314
+1767634136525,471,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-41,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,471,0,319
+1767634136525,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-41,,true,,9505,508,3,3,null,471,1,319
+1767634136725,481,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-42,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,481,0,325
+1767634136725,481,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-42,,true,,9505,508,3,3,null,481,1,325
+1767634136925,473,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-43,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,473,0,315
+1767634136924,473,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-43,,true,,9505,508,3,3,null,473,2,315
+1767634137126,472,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-44,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,471,0,316
+1767634137126,472,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-44,,true,,9505,508,3,3,null,471,0,316
+1767634137326,471,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-45,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,470,0,316
+1767634137325,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-45,,true,,9505,508,3,3,null,470,1,316
+1767634137524,471,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-46,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,471,0,317
+1767634137524,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-46,,true,,9505,508,3,3,null,471,1,317
+1767634137726,481,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-47,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,481,0,324
+1767634137725,481,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-47,,true,,9505,508,3,3,null,481,1,324
+1767634137926,480,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-48,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,480,0,316
+1767634137925,480,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-48,,true,,9505,508,3,3,null,480,2,316
+1767634138125,482,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-49,text,true,,9505,508,2,2,https://map.apps.quattrus.com/editor,482,0,322
+1767634138124,482,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-49,,true,,9505,508,2,2,null,482,2,322
+1767634138326,477,https://map.apps.quattrus.com/editor,200,OK,Prod estresse 1-50,text,true,,9505,508,1,1,https://map.apps.quattrus.com/editor,477,0,315
+1767634138325,477,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Prod estresse 1-50,,true,,9505,508,1,1,null,477,2,315
