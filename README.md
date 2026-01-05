@@ -24,7 +24,7 @@ Os testes foram estruturados para identificar:
 
 Avaliar a performance e estabilidade da aplicação Stratega sob diferentes cargas de usuários simultâneos, simulando:
 
-## 1° Teste:
+## Nos testes foram realizados os cenários abaixo:
 `Ambiente Testado:` [https://map.apps.quattrus.com/editor](https://map.apps.quattrus.com/editor)
 
 | Cenário                          |                                         |
@@ -32,29 +32,7 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 | Teste de carga                   | `Carga - 50 Usuários`                   |
 | Teste de estresse                | `Estresse - 200 Usuários Simultâneos`   |
 
-## 2° Teste:
-`Ambiente Testado:` [https://map.apps.quattrus.com/editor](https://map.apps.quattrus.com/editor)
 
-| Cenário                          |                                                             |
-| -------------------------------- | ------------------------------------------------------------|
-| Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                 |
-| Teste de estresse                | `stresse - 200 Usuários Simultâneos; Ramp-up: 20 segundos`  |
-
-## 3° Teste:
-`Ambiente Testado:` [https://map.apps.quattrus.com/editor](https://map.apps.quattrus.com/editor)
-
-| Cenário                          |                                                             |
-| -------------------------------- | ------------------------------------------------------------|
-| Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                 |
-| Teste de estresse                | `stresse - 200 Usuários Simultâneos; Ramp-up: 20 segundos`  |
-
-## 4° Teste:
-`Ambiente Testado:` [https://map.apps.quattrus.com/editor](https://map.apps.quattrus.com/editor)
-
-| Cenário                          |                                                             |
-| -------------------------------- | ------------------------------------------------------------|
-| Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                 |
-| Teste de estresse                | `stresse - 200 Usuários Simultâneos; Ramp-up: 20 segundos`  |
 
 ## Ferramentas utilizadas
 
