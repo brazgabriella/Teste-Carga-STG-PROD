@@ -1,0 +1,50 @@
+{
+  "https://map.apps.quattrus.com/editor" : {
+    "transaction" : "https://map.apps.quattrus.com/editor",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 487.79999999999984,
+    "medianResTime" : 462.0,
+    "minResTime" : 456.0,
+    "maxResTime" : 1019.0,
+    "pct1ResTime" : 483.7,
+    "pct2ResTime" : 787.4499999999991,
+    "pct3ResTime" : 1019.0,
+    "throughput" : 4.904845987835982,
+    "receivedKBytesPerSec" : 45.5278917132627,
+    "sentKBytesPerSec" : 2.4332634392780066
+  },
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 487.79999999999984,
+    "medianResTime" : 462.0,
+    "minResTime" : 456.0,
+    "maxResTime" : 1019.0,
+    "pct1ResTime" : 483.7,
+    "pct2ResTime" : 787.4499999999991,
+    "pct3ResTime" : 1019.0,
+    "throughput" : 4.869971754163826,
+    "receivedKBytesPerSec" : 45.204181175124184,
+    "sentKBytesPerSec" : 2.415962549917211
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 487.79999999999984,
+    "medianResTime" : 462.0,
+    "minResTime" : 456.0,
+    "maxResTime" : 1019.0,
+    "pct1ResTime" : 483.7,
+    "pct2ResTime" : 787.4499999999991,
+    "pct3ResTime" : 1019.0,
+    "throughput" : 4.904845987835982,
+    "receivedKBytesPerSec" : 45.5278917132627,
+    "sentKBytesPerSec" : 2.4332634392780066
+  }
+}

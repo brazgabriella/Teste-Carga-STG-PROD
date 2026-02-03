@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1770129611983,519,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-1,text,true,,9505,508,6,6,https://map.apps.quattrus.com/editor,518,0,350
+1770129611982,519,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-1,,true,,9505,508,6,6,null,518,1,350
+1770129612082,469,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-2,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,469,0,310
+1770129612081,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-2,,true,,9505,508,5,5,null,469,1,310
+1770129612182,476,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-3,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,476,0,320
+1770129612182,476,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-3,,true,,9505,508,5,5,null,476,0,320
+1770129612282,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-4,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1770129612281,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-4,,true,,9505,508,5,5,null,456,1,304
+1770129612384,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-5,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1770129612383,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-5,,true,,9505,508,5,5,null,456,1,304
+1770129612485,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-6,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,310
+1770129612484,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-6,,true,,9505,508,5,5,null,465,2,310
+1770129612582,460,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-7,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,307
+1770129612581,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-7,,true,,9505,508,5,5,null,460,1,307
+1770129612685,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-8,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,300
+1770129612684,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-8,,true,,9505,508,5,5,null,452,1,300
+1770129612782,461,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-9,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,306
+1770129612781,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-9,,true,,9505,508,5,5,null,461,1,306
+1770129612883,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-10,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,301
+1770129612882,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-10,,true,,9505,508,5,5,null,453,1,301
+1770129612985,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-11,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,308
+1770129612984,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-11,,true,,9505,508,5,5,null,465,1,308
+1770129613085,451,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-12,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,451,0,299
+1770129613084,451,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-12,,true,,9505,508,5,5,null,451,1,299
+1770129613183,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-13,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,306
+1770129613182,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-13,,true,,9505,508,5,5,null,461,1,306
+1770129613283,480,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-14,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,480,0,312
+1770129613282,480,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-14,,true,,9505,508,5,5,null,480,2,312
+1770129613381,466,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-15,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,306
+1770129613380,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-15,,true,,9505,508,5,5,null,466,1,306
+1770129613483,473,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-16,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,472,0,319
+1770129613482,473,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-16,,true,,9505,508,5,5,null,472,1,319
+1770129613583,466,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-17,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,309
+1770129613582,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-17,,true,,9505,508,5,5,null,466,1,309
+1770129613683,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-18,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,307
+1770129613682,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-18,,true,,9505,508,5,5,null,465,2,307
+1770129613781,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-19,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1770129613780,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-19,,true,,9505,508,5,5,null,454,1,302
+1770129613883,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-20,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,307
+1770129613882,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-20,,true,,9505,508,5,5,null,465,1,307
+1770129613980,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-21,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1770129613980,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-21,,true,,9505,508,5,5,null,455,0,303
+1770129614081,472,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-22,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,472,0,313
+1770129614080,472,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-22,,true,,9505,508,5,5,null,472,1,313
+1770129614182,464,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-23,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,306
+1770129614181,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-23,,true,,9505,508,5,5,null,464,1,306
+1770129614283,470,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-24,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,470,0,315
+1770129614282,470,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-24,,true,,9505,508,5,5,null,470,2,315
+1770129614381,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-25,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,313
+1770129614380,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-25,,true,,9505,508,5,5,null,465,2,313
+1770129614480,470,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-26,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,470,0,316
+1770129614480,470,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-26,,true,,9505,508,5,5,null,470,1,316
+1770129614581,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-27,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,301
+1770129614580,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-27,,true,,9505,508,5,5,null,454,2,301
+1770129614681,470,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-28,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,470,0,313
+1770129614680,470,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-28,,true,,9505,508,5,5,null,470,1,313
+1770129614781,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-29,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,313
+1770129614780,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-29,,true,,9505,508,5,5,null,465,2,313
+1770129614881,458,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-30,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,302
+1770129614880,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-30,,true,,9505,508,5,5,null,458,1,302
+1770129614981,468,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-31,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,468,0,311
+1770129614980,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-31,,true,,9505,508,5,5,null,468,2,311
+1770129615082,473,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-32,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,473,0,310
+1770129615081,473,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-32,,true,,9505,508,5,5,null,473,1,310
+1770129615182,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-33,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,300
+1770129615181,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-33,,true,,9505,508,5,5,null,455,1,300
+1770129615282,464,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-34,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,309
+1770129615280,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-34,,true,,9505,508,5,5,null,464,2,309
+1770129615382,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-35,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,301
+1770129615381,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-35,,true,,9505,508,5,5,null,452,2,301
+1770129615481,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-36,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,311
+1770129615481,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-36,,true,,9505,508,5,5,null,467,1,311
+1770129615582,472,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-37,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,471,0,317
+1770129615581,472,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-37,,true,,9505,508,5,5,null,471,1,317
+1770129615682,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-38,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1770129615680,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-38,,true,,9505,508,5,5,null,462,3,308
+1770129615780,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-39,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,301
+1770129615779,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-39,,true,,9505,508,5,5,null,456,2,301
+1770129615881,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-40,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,309
+1770129615880,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-40,,true,,9505,508,5,5,null,465,1,309
+1770129615981,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-41,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,308
+1770129615980,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-41,,true,,9505,508,5,5,null,463,2,308
+1770129616080,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-42,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,303
+1770129616080,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-42,,true,,9505,508,5,5,null,454,0,303
+1770129616181,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-43,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,301
+1770129616179,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-43,,true,,9505,508,5,5,null,454,2,301
+1770129616279,458,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-44,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,306
+1770129616278,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-44,,true,,9505,508,5,5,null,458,1,306
+1770129616379,458,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-45,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,307
+1770129616378,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-45,,true,,9505,508,5,5,null,458,1,307
+1770129616479,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-46,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,301
+1770129616479,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-46,,true,,9505,508,5,5,null,453,1,301
+1770129616581,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-47,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,307
+1770129616580,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-47,,true,,9505,508,5,5,null,463,1,307
+1770129616680,464,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-48,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,309
+1770129616680,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-48,,true,,9505,508,5,5,null,464,0,309
+1770129616780,450,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-49,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,450,0,299
+1770129616779,450,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-49,,true,,9505,508,5,5,null,450,2,299
+1770129616879,468,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-50,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,468,0,308
+1770129616878,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-50,,true,,9505,508,5,5,null,468,1,308
+1770129616979,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-51,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,300
+1770129616978,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-51,,true,,9505,508,5,5,null,454,1,300
+1770129617081,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-52,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,301
+1770129617080,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-52,,true,,9505,508,5,5,null,455,1,301
+1770129617181,461,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-53,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,306
+1770129617180,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-53,,true,,9505,508,5,5,null,461,1,306
+1770129617281,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-54,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,309
+1770129617280,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-54,,true,,9505,508,5,5,null,463,2,309
+1770129617380,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-55,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1770129617379,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-55,,true,,9505,508,5,5,null,456,1,305
+1770129617481,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-56,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1770129617480,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-56,,true,,9505,508,5,5,null,456,1,304
+1770129617581,457,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-57,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,457,0,303
+1770129617580,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-57,,true,,9505,508,5,5,null,457,2,303
+1770129617681,451,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-58,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,451,0,300
+1770129617680,451,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-58,,true,,9505,508,5,5,null,451,1,300
+1770129617780,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-59,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,309
+1770129617779,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-59,,true,,9505,508,5,5,null,463,1,309
+1770129617881,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-60,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1770129617879,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-60,,true,,9505,508,5,5,null,455,2,303
+1770129617980,451,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-61,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,451,0,301
+1770129617979,451,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-61,,true,,9505,508,5,5,null,451,2,301
+1770129618080,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-62,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1770129618078,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-62,,true,,9505,508,5,5,null,455,2,303
+1770129618181,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-63,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1770129618180,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-63,,true,,9505,508,5,5,null,455,2,304
+1770129618281,470,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-64,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,470,0,310
+1770129618280,470,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-64,,true,,9505,508,5,5,null,470,2,310
+1770129618379,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-65,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,301
+1770129618379,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-65,,true,,9505,508,5,5,null,454,0,301
+1770129618479,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-66,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,301
+1770129618478,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-66,,true,,9505,508,5,5,null,452,1,301
+1770129618579,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-67,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,305
+1770129618578,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-67,,true,,9505,508,5,5,null,455,1,305
+1770129618684,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-68,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1770129618683,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-68,,true,,9505,508,5,5,null,455,1,304
+1770129618780,464,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-69,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,309
+1770129618779,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-69,,true,,9505,508,5,5,null,463,1,309
+1770129618881,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-70,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1770129618880,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-70,,true,,9505,508,5,5,null,454,2,302
+1770129618980,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-71,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,308
+1770129618979,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-71,,true,,9505,508,5,5,null,463,2,308
+1770129619079,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-72,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,312
+1770129619078,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-72,,true,,9505,508,5,5,null,467,1,312
+1770129619181,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-73,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,303
+1770129619180,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-73,,true,,9505,508,5,5,null,456,1,303
+1770129619280,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-74,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1770129619280,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-74,,true,,9505,508,5,5,null,455,0,304
+1770129619380,451,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-75,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,451,0,300
+1770129619380,451,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-75,,true,,9505,508,5,5,null,451,0,300
+1770129619481,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-76,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,302
+1770129619480,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-76,,true,,9505,508,5,5,null,452,1,302
+1770129619580,464,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-77,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,308
+1770129619579,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-77,,true,,9505,508,5,5,null,464,1,308
+1770129619679,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-78,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,302
+1770129619678,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-78,,true,,9505,508,5,5,null,453,1,302
+1770129619780,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-79,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,309
+1770129619779,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-79,,true,,9505,508,5,5,null,463,2,309
+1770129619880,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-80,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,301
+1770129619879,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-80,,true,,9505,508,5,5,null,452,2,301
+1770129619980,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-81,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,301
+1770129619979,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-81,,true,,9505,508,5,5,null,453,2,301
+1770129620079,466,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-82,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,310
+1770129620078,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-82,,true,,9505,508,5,5,null,466,1,310
+1770129620179,464,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-83,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,310
+1770129620178,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-83,,true,,9505,508,5,5,null,464,2,310
+1770129620280,464,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-84,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,464,0,310
+1770129620279,464,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-84,,true,,9505,508,5,5,null,464,2,310
+1770129620380,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-85,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,307
+1770129620379,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-85,,true,,9505,508,5,5,null,463,2,307
+1770129620481,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-86,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,302
+1770129620479,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-86,,true,,9505,508,5,5,null,453,3,302
+1770129620579,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-87,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1770129620578,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-87,,true,,9505,508,5,5,null,456,1,305
+1770129620678,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-88,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,310
+1770129620678,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-88,,true,,9505,508,5,5,null,465,1,310
+1770129620780,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-89,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1770129620778,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-89,,true,,9505,508,5,5,null,456,2,304
+1770129620879,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-90,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,308
+1770129620878,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-90,,true,,9505,508,5,5,null,463,1,308
+1770129620979,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-91,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,307
+1770129620978,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-91,,true,,9505,508,5,5,null,462,1,307
+1770129621079,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-92,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,301
+1770129621079,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-92,,true,,9505,508,5,5,null,453,0,301
+1770129621180,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-93,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,303
+1770129621179,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-93,,true,,9505,508,5,5,null,454,1,303
+1770129621281,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-94,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,311
+1770129621281,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-94,,true,,9505,508,5,5,null,465,0,311
+1770129621381,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-95,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,311
+1770129621380,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-95,,true,,9505,508,5,5,null,465,1,311
+1770129621480,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-96,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,301
+1770129621480,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-96,,true,,9505,508,5,5,null,453,0,301
+1770129621581,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-97,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,305
+1770129621580,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-97,,true,,9505,508,5,5,null,455,2,305
+1770129621682,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-98,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1770129621681,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-98,,true,,9505,508,5,5,null,454,1,302
+1770129621781,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-99,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,311
+1770129621780,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-99,,true,,9505,508,5,5,null,467,2,311
+1770129621881,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-100,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1770129621880,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-100,,true,,9505,508,5,5,null,455,1,303
+1770129621982,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-101,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,302
+1770129621981,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-101,,true,,9505,508,5,5,null,452,2,302
+1770129622081,468,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-102,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,468,0,311
+1770129622080,468,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-102,,true,,9505,508,5,5,null,468,1,311
+1770129622181,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-103,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1770129622180,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-103,,true,,9505,508,5,5,null,456,1,304
+1770129622280,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-104,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,307
+1770129622279,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-104,,true,,9505,508,5,5,null,462,1,307
+1770129622380,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-105,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,308
+1770129622379,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-105,,true,,9505,508,5,5,null,463,2,308
+1770129622480,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-106,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,302
+1770129622479,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-106,,true,,9505,508,5,5,null,453,2,302
+1770129622582,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-107,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1770129622580,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-107,,true,,9505,508,5,5,null,455,2,303
+1770129622681,459,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-108,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,303
+1770129622680,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-108,,true,,9505,508,5,5,null,459,1,303
+1770129622780,469,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-109,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,469,0,315
+1770129622780,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-109,,true,,9505,508,5,5,null,469,0,315
+1770129622882,461,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-110,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,306
+1770129622881,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-110,,true,,9505,508,5,5,null,461,2,306
+1770129622981,459,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-111,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,306
+1770129622980,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-111,,true,,9505,508,5,5,null,459,2,306
+1770129623100,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-112,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,301
+1770129623099,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-112,,true,,9505,508,5,5,null,453,1,301
+1770129623180,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-113,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1770129623179,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-113,,true,,9505,508,5,5,null,462,1,308
+1770129623281,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-114,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1770129623280,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-114,,true,,9505,508,5,5,null,455,2,304
+1770129623379,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-115,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,310
+1770129623379,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-115,,true,,9505,508,5,5,null,465,0,310
+1770129623480,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-116,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1770129623479,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-116,,true,,9505,508,5,5,null,455,1,304
+1770129623580,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-117,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,303
+1770129623579,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-117,,true,,9505,508,5,5,null,454,1,303
+1770129623681,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-118,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,303
+1770129623679,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-118,,true,,9505,508,5,5,null,456,2,303
+1770129623786,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-119,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,310
+1770129623785,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-119,,true,,9505,508,5,5,null,465,1,310
+1770129623881,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-120,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1770129623880,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-120,,true,,9505,508,5,5,null,456,1,305
+1770129623980,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-121,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,301
+1770129623979,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-121,,true,,9505,508,5,5,null,454,2,301
+1770129624083,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-122,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1770129624082,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-122,,true,,9505,508,5,5,null,462,2,308
+1770129624181,461,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-123,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,310
+1770129624180,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-123,,true,,9505,508,5,5,null,461,2,310
+1770129624281,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-124,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,304
+1770129624280,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-124,,true,,9505,508,5,5,null,456,2,304
+1770129624382,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-125,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1770129624381,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-125,,true,,9505,508,5,5,null,454,1,302
+1770129624483,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-126,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1770129624481,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-126,,true,,9505,508,5,5,null,456,3,305
+1770129624581,479,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-127,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,479,0,316
+1770129624580,479,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-127,,true,,9505,508,5,5,null,479,2,316
+1770129624682,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-128,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,303
+1770129624680,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-128,,true,,9505,508,5,5,null,453,3,303
+1770129624782,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-129,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,303
+1770129624781,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-129,,true,,9505,508,5,5,null,453,2,303
+1770129624881,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-130,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1770129624880,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-130,,true,,9505,508,5,5,null,456,2,305
+1770129624983,458,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-131,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,458,0,303
+1770129624982,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-131,,true,,9505,508,5,5,null,458,2,303
+1770129625081,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-132,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,302
+1770129625080,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-132,,true,,9505,508,5,5,null,453,1,302
+1770129625181,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-133,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1770129625179,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-133,,true,,9505,508,5,5,null,454,2,302
+1770129625281,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-134,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,312
+1770129625279,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-134,,true,,9505,508,5,5,null,467,2,312
+1770129625381,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-135,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1770129625380,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-135,,true,,9505,508,5,5,null,462,3,308
+1770129625480,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-136,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,311
+1770129625480,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-136,,true,,9505,508,5,5,null,466,0,311
+1770129625581,461,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-137,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,461,0,306
+1770129625580,461,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-137,,true,,9505,508,5,5,null,461,1,306
+1770129625680,450,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-138,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,450,0,300
+1770129625679,450,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-138,,true,,9505,508,5,5,null,450,2,300
+1770129625780,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-139,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,302
+1770129625779,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-139,,true,,9505,508,5,5,null,453,1,302
+1770129625881,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-140,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,310
+1770129625881,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-140,,true,,9505,508,5,5,null,465,1,310
+1770129625981,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-141,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,303
+1770129625980,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-141,,true,,9505,508,5,5,null,456,1,303
+1770129626080,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-142,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,301
+1770129626079,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-142,,true,,9505,508,5,5,null,454,2,301
+1770129626180,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-143,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,312
+1770129626179,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-143,,true,,9505,508,5,5,null,467,1,312
+1770129626281,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-144,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,301
+1770129626280,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-144,,true,,9505,508,5,5,null,452,2,301
+1770129626381,451,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-145,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,451,0,300
+1770129626380,451,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-145,,true,,9505,508,5,5,null,451,1,300
+1770129626481,469,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-146,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,469,0,313
+1770129626480,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-146,,true,,9505,508,5,5,null,469,2,313
+1770129626582,466,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-147,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,312
+1770129626581,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-147,,true,,9505,508,5,5,null,466,2,312
+1770129626681,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-148,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,310
+1770129626680,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-148,,true,,9505,508,5,5,null,465,2,310
+1770129626780,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-149,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,302
+1770129626779,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-149,,true,,9505,508,5,5,null,452,1,302
+1770129626881,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-150,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,301
+1770129626880,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-150,,true,,9505,508,5,5,null,453,1,301
+1770129626981,459,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-151,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,459,0,302
+1770129626980,459,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-151,,true,,9505,508,5,5,null,459,1,302
+1770129627082,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-152,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,303
+1770129627081,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-152,,true,,9505,508,5,5,null,454,1,303
+1770129627182,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-153,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1770129627181,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-153,,true,,9505,508,5,5,null,454,1,302
+1770129627282,466,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-154,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,312
+1770129627281,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-154,,true,,9505,508,5,5,null,466,1,312
+1770129627382,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-155,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,302
+1770129627381,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-155,,true,,9505,508,5,5,null,455,2,302
+1770129627481,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-156,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,301
+1770129627480,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-156,,true,,9505,508,5,5,null,452,2,301
+1770129627581,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-157,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,302
+1770129627579,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-157,,true,,9505,508,5,5,null,456,3,302
+1770129627681,475,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-158,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,475,0,320
+1770129627680,475,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-158,,true,,9505,508,5,5,null,475,2,320
+1770129627781,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-159,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1770129627780,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-159,,true,,9505,508,5,5,null,462,1,308
+1770129627882,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-160,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,312
+1770129627881,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-160,,true,,9505,508,5,5,null,466,1,312
+1770129627983,471,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-161,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,471,0,315
+1770129627980,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-161,,true,,9505,508,5,5,null,471,4,315
+1770129628082,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-162,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,303
+1770129628081,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-162,,true,,9505,508,5,5,null,453,2,303
+1770129628181,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-163,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,302
+1770129628180,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-163,,true,,9505,508,5,5,null,453,1,302
+1770129628283,449,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-164,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,449,0,299
+1770129628281,449,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-164,,true,,9505,508,5,5,null,449,3,299
+1770129628381,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-165,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,301
+1770129628380,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-165,,true,,9505,508,5,5,null,453,1,301
+1770129628482,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-166,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1770129628480,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-166,,true,,9505,508,5,5,null,454,3,302
+1770129628580,460,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-167,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,460,0,306
+1770129628579,460,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-167,,true,,9505,508,5,5,null,460,2,306
+1770129628681,450,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-168,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,450,0,299
+1770129628680,450,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-168,,true,,9505,508,5,5,null,450,2,299
+1770129628782,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-169,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1770129628781,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-169,,true,,9505,508,5,5,null,455,1,303
+1770129628881,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-170,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,300
+1770129628880,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-170,,true,,9505,508,5,5,null,452,1,300
+1770129628981,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-171,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,302
+1770129628980,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-171,,true,,9505,508,5,5,null,456,1,302
+1770129629080,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-172,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,304
+1770129629079,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-172,,true,,9505,508,5,5,null,455,1,304
+1770129629180,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-173,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,302
+1770129629179,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-173,,true,,9505,508,5,5,null,454,1,302
+1770129629281,469,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-174,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,469,0,313
+1770129629280,469,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-174,,true,,9505,508,5,5,null,469,2,313
+1770129629382,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-175,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,309
+1770129629381,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-175,,true,,9505,508,5,5,null,463,1,309
+1770129629480,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-176,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,301
+1770129629479,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-176,,true,,9505,508,5,5,null,452,1,301
+1770129629580,466,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-177,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,466,0,311
+1770129629579,466,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-177,,true,,9505,508,5,5,null,466,1,311
+1770129629680,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-178,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,302
+1770129629679,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-178,,true,,9505,508,5,5,null,453,2,302
+1770129629782,454,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-179,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,454,0,300
+1770129629781,454,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-179,,true,,9505,508,5,5,null,454,2,300
+1770129629881,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-180,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,308
+1770129629880,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-180,,true,,9505,508,5,5,null,463,1,308
+1770129629980,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-181,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,301
+1770129629979,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-181,,true,,9505,508,5,5,null,455,2,301
+1770129630080,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-182,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1770129630079,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-182,,true,,9505,508,5,5,null,456,1,305
+1770129630181,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-183,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,307
+1770129630180,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-183,,true,,9505,508,5,5,null,462,1,307
+1770129630281,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-184,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,302
+1770129630279,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-184,,true,,9505,508,5,5,null,455,2,302
+1770129630381,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-185,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,312
+1770129630380,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-185,,true,,9505,508,5,5,null,467,1,312
+1770129630482,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-186,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1770129630481,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-186,,true,,9505,508,5,5,null,456,1,305
+1770129630581,456,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-187,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,456,0,305
+1770129630579,456,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-187,,true,,9505,508,5,5,null,456,3,305
+1770129630681,465,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-188,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,465,0,310
+1770129630679,465,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-188,,true,,9505,508,5,5,null,465,3,310
+1770129630780,453,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-189,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,453,0,302
+1770129630779,453,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-189,,true,,9505,508,5,5,null,453,2,302
+1770129630881,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-190,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,305
+1770129630880,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-190,,true,,9505,508,5,5,null,455,2,305
+1770129630982,462,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-191,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,462,0,308
+1770129630981,462,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-191,,true,,9505,508,5,5,null,462,1,308
+1770129631082,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-192,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,463,0,308
+1770129631080,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-192,,true,,9505,508,5,5,null,463,3,308
+1770129631183,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-193,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,467,0,300
+1770129631181,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-193,,true,,9505,508,5,5,null,467,3,300
+1770129631282,471,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-194,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,471,0,315
+1770129631280,471,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-194,,true,,9505,508,5,5,null,471,2,315
+1770129631380,452,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-195,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,452,0,301
+1770129631380,452,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-195,,true,,9505,508,5,5,null,452,1,301
+1770129631481,455,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-196,text,true,,9505,508,5,5,https://map.apps.quattrus.com/editor,455,0,303
+1770129631480,455,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-196,,true,,9505,508,5,5,null,455,2,303
+1770129631580,457,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-197,text,true,,9505,508,4,4,https://map.apps.quattrus.com/editor,457,0,305
+1770129631579,457,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-197,,true,,9505,508,4,4,null,457,1,305
+1770129631679,463,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-198,text,true,,9505,508,3,3,https://map.apps.quattrus.com/editor,463,0,309
+1770129631678,463,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-198,,true,,9505,508,3,3,null,463,1,309
+1770129631780,458,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-199,text,true,,9505,508,2,2,https://map.apps.quattrus.com/editor,458,0,305
+1770129631779,458,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-199,,true,,9505,508,2,2,null,458,1,305
+1770129631880,467,https://map.apps.quattrus.com/editor,200,OK,STG Prod Estresse 1-200,text,true,,9505,508,1,1,https://map.apps.quattrus.com/editor,467,0,313
+1770129631879,467,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",STG Prod Estresse 1-200,,true,,9505,508,1,1,null,467,1,313
